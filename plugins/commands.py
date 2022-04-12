@@ -19,7 +19,7 @@ start_button=InlineKeyboardMarkup(
                   InlineKeyboardButton("About Dynamic", callback_data = "dynamic_data")
               ],
               [
-                  InlineKeyboardButton("Source Code", url = "https://github.com/samadii/ChannelAutoCaption"),
+                  InlineKeyboardButton("Owner 👑", url = "https://t.me/iAmLiKu1"),
                   InlineKeyboardButton("🔐 CLOSE", callback_data="close_data")
               ]
         ]
